@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   appName: 'C360_E2E_BUG_ANALYZER',
-  hostName: 'local'
+  hostName: 'dev'
 };
 
 /*
